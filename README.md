@@ -7,6 +7,7 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Omkatkar007/leetcode-sql/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Omkatkar007/leetcode-sql/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Omkatkar007/leetcode-sql/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/Omkatkar007/leetcode-sql/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Omkatkar007/leetcode-sql/tree/master/0595-big-countries) |
