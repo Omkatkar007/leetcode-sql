@@ -6,6 +6,7 @@ Personal collection of LeetCode solutions in Python and SQL focused on data stru
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Omkatkar007/leetcode-sql/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Omkatkar007/leetcode-sql/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Omkatkar007/leetcode-sql/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Omkatkar007/leetcode-sql/tree/master/0182-duplicate-emails) |
